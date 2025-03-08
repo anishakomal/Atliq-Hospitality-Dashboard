@@ -1,5 +1,10 @@
 # 🏨 Atliq Hospitality Analysis Dashboard  
 
+## 🔗 **Project Link**  
+[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZiMGNmZjUtMzZmMC00MTJhLTg0NWItMGM1YWFjNTQ0MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9eff58b7a77793593a36) 
+
+
+
 ## 📌 Problem Statement  
 Atliq Grands, a leading five-star hotel chain in India, has been in the hospitality industry for over 20 years. However, due to competitive market strategies and ineffective management decisions, they are losing market share and revenue in the luxury and business hotel categories.  
 
@@ -51,10 +56,5 @@ This dashboard provides **comprehensive revenue analysis** to help Atliq Grands 
 ✅ **Developing DAX Measures:** Writing calculations for deep data analysis.  
 ✅ **UI/UX Design for Dashboards:** Creating an intuitive and user-friendly interface.  
 ✅ **Narrating Smart Insights:** Converting raw data into actionable intelligence.  
-
----
-
-## 🔗 **Project Link**  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZiMGNmZjUtMzZmMC00MTJhLTg0NWItMGM1YWFjNTQ0MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9eff58b7a77793593a36) 
 
 
