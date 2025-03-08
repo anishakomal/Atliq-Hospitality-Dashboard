@@ -1,7 +1,6 @@
 # 🏨 Atliq Hospitality Analysis Dashboard  
 
-## 🔗 **Project Link**  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZiMGNmZjUtMzZmMC00MTJhLTg0NWItMGM1YWFjNTQ0MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9eff58b7a77793593a36) 
+## 🔗 **View Dashboard :**  [Link](https://app.powerbi.com/view?r=eyJrIjoiOGZiMGNmZjUtMzZmMC00MTJhLTg0NWItMGM1YWFjNTQ0MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9eff58b7a77793593a36) 
 
 ---
 
